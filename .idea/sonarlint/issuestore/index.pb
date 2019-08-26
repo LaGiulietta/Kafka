@@ -17,3 +17,9 @@ $kafka-consumer-elasticsearch/pom.xml,7\a\7a579b30ae8bbf4ad33b51f9c62b684c55a6a
 kkafka-consumer-elasticsearch/src/main/java/com/github/simplesteph/Kafka/tutorial/ElasticSearchConsumer.java,4\b\4baf230911de3655a8a28b788e5184d659f9e758
 m
 =kafka-basics/src/main/java/esercizio1/ConsumerGroupsDemo.java,7\a\7a938c9f6b0db4cf0d1ade3bb72bf10f6bae9576
+D
+kafka-connect/run.sh,f\5\f5498fba76e2337b7a5e1327beeaa3cc325452e9
+[
++kafka-connect/connect-standalone.properties,7\5\757aa6ce83532258879900a67de5552949c8b61d
+P
+ kafka-connect/twitter.properties,9\0\90e040970eaf1fc71c1fabd46d41bfecc24dd8d5

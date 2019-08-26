@@ -1,0 +1,6 @@
+
+]squid:S2142B"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+?squid:S1148C"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Asquid:S00108M")Either remove or fill this block of code.(å¥ž‡
+Ksquid:S1172o"/Remove this unused method parameter "msgQueue".(´„¬ìûÿÿÿÿ
+ƒsquid:S1488‚"fImmediately return this expression instead of assigning it to the temporary variable "hosebirdClient".(Ÿý¤¼üÿÿÿÿ
