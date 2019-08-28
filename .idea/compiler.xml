@@ -13,7 +13,6 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="kafka-basics" target="8" />
-      <module name="kafka-connect" target="1.5" />
       <module name="kafka-consumer-elasticsearch" target="8" />
       <module name="kafka-producer-twitter" target="8" />
       <module name="kafka-streams-filter-tweets" target="1.5" />
