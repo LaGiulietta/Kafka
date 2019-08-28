@@ -23,3 +23,9 @@ D
 +kafka-connect/connect-standalone.properties,7\5\757aa6ce83532258879900a67de5552949c8b61d
 P
  kafka-connect/twitter.properties,9\0\90e040970eaf1fc71c1fabd46d41bfecc24dd8d5
+O
+kafka-connect/worker.properties,a\e\ae49628e557221e0ad611d4281dc37d5015ca368
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+m
+=src/main/java/com/giulia/prova/kafka/StreamsFilterTweets.java,8\c\8c39489ad632fa09dbe72282fee610bfdc515857

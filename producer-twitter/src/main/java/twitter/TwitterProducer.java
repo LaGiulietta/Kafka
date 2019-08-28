@@ -28,7 +28,7 @@ public class TwitterProducer {
     String consumerSecret="mk3ULBmY8Tpe91zOXjwIlptf2DuvkqHQmKmmRNTsJka7zpw8hx";
     String token="428969972-go2hBAKVrgvhTfospE5sz70aTJuzcupLNaCSoY25";
     String secret="eHODSEsFVsJms9L29dyzUJh9teDM1kZBo4otTgL3Ffbz2";
-    List<String> terms = Lists.newArrayList("bitcoins", "usa", "politics");
+    List<String> terms = Lists.newArrayList("soccer", "usa", "music");
 
     BlockingDeque<String> msgQueue = new LinkedBlockingDeque<String>(1000);
     public static void main(String[] args) {
@@ -48,12 +48,12 @@ public class TwitterProducer {
         // shutdown hook
         Runtime.getRuntime().addShutdownHook(new Thread(()->
         {
-         log.info("stopping application");
-         log.info("shutting down client from twitter");
-         client.stop();
-         log.info("closing producer");
-         producer.close();
-         log.info("..done");
+            log.info("stopping application");
+            log.info("shutting down client from twitter");
+            client.stop();
+            log.info("closing producer");
+            producer.close();
+            log.info("..done");
         }));
 
 
@@ -69,7 +69,7 @@ public class TwitterProducer {
             }
             if (msg != null){
                 log.info(msg);
-                producer.send(new ProducerRecord<String, String>("twitter_tweets", null, msg), new Callback( ) {
+                producer.send(new ProducerRecord<>("twitter_topics", null, msg), new Callback( ) {
                     public void onCompletion(RecordMetadata recordMetadata, Exception e) {
                         //Codice da eseguire ogni volta che un invio ha successo o è sollevata un'eccezione
                         if (e != null) {

@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kafka-consumer-elasticsearch/elasticsearch.iml" filepath="$PROJECT_DIR$/kafka-consumer-elasticsearch/elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-connect/kafka-connect.iml" filepath="$PROJECT_DIR$/kafka-connect/kafka-connect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-connect/kafka-streams-filter-tweets.iml" filepath="$PROJECT_DIR$/kafka-connect/kafka-streams-filter-tweets.iml" />
     </modules>
   </component>
 </project>

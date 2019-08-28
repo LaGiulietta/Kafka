@@ -2,11 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08a813a5-eeb6-477c-b6b3-236e2072d78d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kafka-connect/run.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/e/ae49628e557221e0ad611d4281dc37d5015ca368" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kafka-connect/kafka-streams-filter-tweets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/producer-twitter/producer-twitter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-producer-twitter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-basics/kafka-basics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-basics/kafka-basics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connect-standalone.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-connect/connect-standalone.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/annotations-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/connect-avro-docker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/connect-utils-0.3.105.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/freemarker-2.3.25-incubating.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/guava-18.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/jackson-annotations-2.8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/jackson-core-2.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/jackson-databind-2.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/javassist-3.19.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/kafka-connect-twitter-0.2.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/reflections-0.9.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/twitter4j-core-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/connectors/twitter4j-stream-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-connect/run.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/twitter.properties" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-connect/twitter.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-connect/worker.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/sonarlint/issuestore/7/c/7cb22e8eca1cb49c6bb9c469ea25129307dcdfe1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/sonarlint/issuestore/8/5/853e7f78a1179cb430eedd945774589a28d3146c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/kafka-producer-twitter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-connect/kafka-connect.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/src/main/java/twitter/TwitterConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/src/main/java/twitter/TwitterProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/twitter/TwitterConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/twitter/TwitterProducer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-producer-twitter/target/classes/twitter/TwitterProducer.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,26 +81,26 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563894298559" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/kafka-producer-twitter/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../elasticSearch/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\dev\kafkaprogram\kafka-producer-twitter\src\main\java" />
-      <recent name="C:\dev\kafkaprogram\kafka-basics\src\main\java" />
-      <recent name="C:\dev\kafkaprogram\kafka-basics\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.giulia.prova.kafka.esercizio1" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\dev\kafkaprogram\kafka-connect" />
       <recent name="C:\dev\kafkaprogram\kafka-connect\connectors" />
       <recent name="C:\dev\kafkaprogram\kafka-connect\kafkaconnectors" />
       <recent name="C:\dev\kafkaprogram\kafka-connect\kafkaconnectors\kafka-connect-twitter-0.2.26.tar" />
       <recent name="C:\dev\kafkaprogram\kafka-consumer-elasticsearch\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.giulia.prova.kafka.esercizio1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\kafkaprogram\kafka-producer-twitter\src\main\java" />
+      <recent name="C:\dev\kafkaprogram\kafka-basics\src\main\java" />
+      <recent name="C:\dev\kafkaprogram\kafka-basics\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -77,26 +115,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ConsumerDemo">
+  <component name="RunManager" selected="Application.StreamsFilterTweets">
     <configuration name="ConsumerDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="esercizio1.ConsumerDemo" />
       <module name="kafka-basics" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="esercizio1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.giulia.prova.kafka.esercizio1.ConsumerDemo" />
-      <module name="kafkaprogram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.giulia.prova.kafka.esercizio1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,6 +156,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamsFilterTweets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.giulia.prova.kafka.StreamsFilterTweets" />
+      <module name="kafkaprogram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.giulia.prova.kafka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwitterProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="twitter.TwitterProducer" />
       <module name="kafka-producer-twitter" />
@@ -145,19 +183,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ConsumerDemo" />
       <item itemvalue="Application.ProducerDemo" />
       <item itemvalue="Application.ConsumerDemo (1)" />
       <item itemvalue="Application.ElasticSearchConsumer" />
       <item itemvalue="Application.TwitterProducer" />
+      <item itemvalue="Application.StreamsFilterTweets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamsFilterTweets" />
         <item itemvalue="Application.TwitterProducer" />
         <item itemvalue="Application.ElasticSearchConsumer" />
         <item itemvalue="Application.ProducerDemo" />
         <item itemvalue="Application.ConsumerDemo (1)" />
-        <item itemvalue="Application.ConsumerDemo" />
       </list>
     </recent_temporary>
   </component>
